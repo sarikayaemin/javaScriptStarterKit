@@ -5,7 +5,7 @@ for (let i=1; i<= 1000; i++) {
 
     for (let k = 1; k <= i ; k ++) {
         if (i % k == 0) {
-            total = total + j 
+            total = total + k
         }
     }
 
